@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -d "{\"content\":\"<@337295484559425537> DONE!\"}" "https://discord.com/api/webhooks/1254881238414524467/AsCuihqp71d1BnlUWC7OXOJ54gUswuEsyRCPlmYZs35NPgd7VPB4IEG2tX5nG1a0f9BU"

@@ -1,0 +1,15 @@
+.vscode
+
+figures
+dataset/data
+results
+
+src.zip
+
+*.o
+src/audited/App/Enclave_u.c
+src/audited/App/Enclave_u.h
+src/audited/audited
+src/auditor/auditor
+src/reader/reader
+src/remote-storage/remote-storage
